@@ -16,6 +16,8 @@
     }
   ],
   "url": "https://github.com/Z3DT/Tombs-of-Delios-for-FoundryVTT/",
+  "manifest": "https://github.com/Z3DT/Tombs-of-Delios-for-FoundryVTT/releases/latest/download/module.json",
+  "download": "https://github.com/Z3DT/Tombs-of-Delios-for-FoundryVTT/releases/latest/download/module.zip",
   "flags": {
     "canUpload": true
   },
@@ -41,6 +43,4 @@
       "system": "lancer"
     }
   ]
-  "manifest": "https://github.com/Z3DT/Tombs-of-Delios-for-FoundryVTT/releases/latest/download/module.json",
-  "download": "https://github.com/Z3DT/Tombs-of-Delios-for-FoundryVTT/releases/latest/download/module.zip"
 }
