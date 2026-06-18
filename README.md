@@ -1,4 +1,4 @@
-A FoundryVTT Adventure by Kat Stark for 3-5 beginners to Lancer, adapted for FoundryVTT by Z3DT
+A Lancer one-shot by Kat Stark for 3-5 beginners to Lancer, adapted for FoundryVTT by Z3DT
 
 ## Contains
 - A journal with the full adventure as written by Kat Stark,
