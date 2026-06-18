@@ -1,7 +1,7 @@
 {
   "id": "tombs-of-delios",
   "title": "The Tombs of Delios",
-  "version": "0.9",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -41,4 +41,6 @@
       "system": "lancer"
     }
   ]
+  "manifest": "https://github.com/Z3DT/Tombs-of-Delios-for-FoundryVTT/releases/latest/download/module.json",
+  "download": "https://github.com/Z3DT/Tombs-of-Delios-for-FoundryVTT/releases/latest/download/module.zip"
 }
