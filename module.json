@@ -1,0 +1,44 @@
+{
+  "id": "tombs-of-delios",
+  "title": "The Tombs of Delios",
+  "version": "0.9",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>An introductory Lancer RPG one-shot adventure for 3-5 players, designed to be played in a single session. Written by Kat Stark, adapted for FoundryVTT 13+ by Z3DT</p>",
+  "authors": [
+    {
+      "name": "Z3DT",
+      "url": "https://github.com/Z3DT/",
+      "discord": "@z3dt",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Z3DT/Tombs-of-Delios-for-FoundryVTT/",
+  "flags": {
+    "canUpload": true
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "wall-height",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "tombs-of-delios",
+      "label": "Tombs of Delios",
+      "path": "packs/tombs-of-delios",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "lancer"
+    }
+  ]
+}
