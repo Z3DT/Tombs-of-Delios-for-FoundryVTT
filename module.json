@@ -1,7 +1,7 @@
 {
   "id": "tombs-of-delios",
   "title": "The Tombs of Delios",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -22,13 +22,6 @@
     "canUpload": true
   },
   "relationships": {
-    "requires": [
-      {
-        "id": "wall-height",
-        "type": "module",
-        "compatibility": {}
-      }
-    ]
   },
   "packs": [
     {
@@ -36,11 +29,11 @@
       "label": "Tombs of Delios",
       "path": "packs/tombs-of-delios",
       "type": "Adventure",
+      "system": "lancer",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "lancer"
+      }
     }
   ]
 }
